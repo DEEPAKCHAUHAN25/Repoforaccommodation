@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_master_item">
+    <sys_sg_item_stream_m2m_master_item action="INSERT_OR_UPDATE">
+        <item_stream display_value="All Home Stays Item Stream">4c650ad29779311072f0f5b3f153aff6</item_stream>
+        <master_item display_value="All Home Stays master_item">44650ad29779311072f0f5b3f153aff7</master_item>
+        <sys_class_name>sys_sg_item_stream_m2m_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-12 17:35:28</sys_created_on>
+        <sys_id>48650ad29779311072f0f5b3f153aff7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="needit" source="x_1142125_my_accom">749f319e9739311072f0f5b3f153af6b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="needit">749f319e9739311072f0f5b3f153af6b</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_master_item_48650ad29779311072f0f5b3f153aff7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-12 17:35:28</sys_updated_on>
+    </sys_sg_item_stream_m2m_master_item>
+</record_update>

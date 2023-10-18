@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="New Button (All Home Stays)">c8650ad29779311072f0f5b3f153affa</button>
+        <item_parameter display_value="All Home Stays price_night_inr">40650ad29779311072f0f5b3f153affa</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-12 17:35:28</sys_created_on>
+        <sys_id>cc650ad29779311072f0f5b3f153affc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>40650ad29779311072f0f5b3f153affa</sys_name>
+        <sys_package display_value="needit" source="x_1142125_my_accom">749f319e9739311072f0f5b3f153af6b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="needit">749f319e9739311072f0f5b3f153af6b</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_cc650ad29779311072f0f5b3f153affc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-12 17:35:28</sys_updated_on>
+        <ui_parameter display_value="Price/Night(INR)">cc650ad29779311072f0f5b3f153affb</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

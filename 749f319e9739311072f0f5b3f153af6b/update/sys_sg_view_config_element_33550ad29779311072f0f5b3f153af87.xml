@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>category-FieldValue</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-12 17:35:27</sys_created_on>
+        <sys_id>33550ad29779311072f0f5b3f153af87</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>category-FieldValue</sys_name>
+        <sys_package display_value="needit" source="x_1142125_my_accom">749f319e9739311072f0f5b3f153af6b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="needit">749f319e9739311072f0f5b3f153af6b</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_33550ad29779311072f0f5b3f153af87</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-12 17:35:27</sys_updated_on>
+        <view_config display_value="All Resorts Detail Screen View Config">73550ad29779311072f0f5b3f153af70</view_config>
+        <view_template_slot display_value="text_07">e87845b041275010f877183fc9b8be13</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher">
+    <sys_sg_applet_launcher action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <available_offline>true</available_offline>
+        <header_button/>
+        <header_titles/>
+        <hide_empty_sections>true</hide_empty_sections>
+        <name>MY ACCOMODATION</name>
+        <required_roles>admin,agent_admin,x_1142125_my_accom.own created role</required_roles>
+        <search_config/>
+        <sys_class_name>sys_sg_applet_launcher</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-12 17:35:25</sys_created_on>
+        <sys_id>9755c2d29779311072f0f5b3f153af9f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MY ACCOMODATION</sys_name>
+        <sys_package display_value="needit" source="x_1142125_my_accom">749f319e9739311072f0f5b3f153af6b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="needit">749f319e9739311072f0f5b3f153af6b</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_9755c2d29779311072f0f5b3f153af9f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-12 17:35:25</sys_updated_on>
+        <title>MY ACCOMODATION</title>
+    </sys_sg_applet_launcher>
+</record_update>
